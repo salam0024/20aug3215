@@ -1,7 +1,7 @@
 <html>
  <head>
  <title> Search Singles</title>
-<meta http-equiv="Refresh" content="0; url='https://meet2ni8.xyz/?r-14hagt1'" />
+<meta http-equiv="Refresh" content="0; url='https://meet2ni8.xyz/?r-20hagt2'" />
  </head>
  <style>
  body {
