@@ -1,6 +1,6 @@
 <html>
  <head>
- <title> Search Singles</title>
+ <title> Real People Click on "Go Next" </title>
 <meta http-equiv="Refresh" content="10; url='https://meet2ni8.xyz/?r-24hagtnew'" />
  </head>
  <style>
